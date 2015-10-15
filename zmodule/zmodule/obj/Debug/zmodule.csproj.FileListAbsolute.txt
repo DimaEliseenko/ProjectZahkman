@@ -1,0 +1,135 @@
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\bin\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Разработка\Захман\zmodule\zmodule\obj\Debug\zmodule.editor.resources
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\bin\Debug\zmodule.pdb
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.editor.resources
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Родион\Documents\Visual Studio 2015\Projects\Захман\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\bin\Debug\zmodule.exe.config
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.exe
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.pdb
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\bin\Debug\zmodule.exe
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.editor.resources
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+D:\Облако Mail.ru\Разработка\Захман rodion v0.1\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.exe.config
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.exe
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.pdb
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.exe
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.editor.resources
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+D:\Облако Mail.ru\Мои программы\C#\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\bin\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.editor.resources
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+C:\Users\Dima\Desktop\Облако\Общая\Захман rodion v0.101\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe.config
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.exe
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe.config
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.exe
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.pdb
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.exe
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Dima\Desktop\zmodule\zmodule\bin\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+D:\Облако Mail.ru\Общая\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.setTextForm.resources
+D:\Облако Mail.ru\Мои программы\C#\Основной проект Захман\zmodule\zmodule\obj\Debug\zmodule.setTextForm.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.exe.config
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.exe
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.pdb
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.exe
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.pdb
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.GraphicsObjectEditor.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.setTextForm.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+D:\Облако Mail.ru\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.exe
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\bin\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.authorization.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Form1.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.GraphicsObjectEditor.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.new_profile.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Properties.Resources.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.setTextForm.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.Settings.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
