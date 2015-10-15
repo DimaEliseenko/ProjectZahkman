@@ -17,8 +17,10 @@ using System.Runtime.Serialization;
 namespace zmodule
 {
     public partial class Form1 : Form
-    {
+    { 
         /* Описание нововведений в обновлении
+
+            БУГАГАГАГАГАГА
 
         Родион, v0.124 , 15.10.2015.
         добвлен текст и линии с тектом. Они почти полностью являются полноценными графическими
@@ -117,7 +119,7 @@ namespace zmodule
         int lenght = 0, height = 0;
         string typeEdit = null;
 
-       bool firstStart = true;
+        bool firstStart = true;
         bool timerStop = false;
         
 
