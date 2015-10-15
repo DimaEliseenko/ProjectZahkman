@@ -123,7 +123,7 @@ namespace zmodule
 
         setTextForm stf = new setTextForm();
         string text = "_";
-        int ghg = 0;
+        
 
         static Color foneColor = Color.White;
         Pen blackPen = new Pen(Color.Black, 2);

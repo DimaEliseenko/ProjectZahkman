@@ -136,3 +136,6 @@ C:\Users\Dima\Desktop\Облако\Общая\Основной проект За
 C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\bin\Debug\zmodule.exe.config
 C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.exe
 C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.pdb
+C:\Users\Dima\Desktop\ProjectZahkman\ProjectZahkman\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\Users\Dima\Desktop\ProjectZahkman\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\Users\Dima\Desktop\ProjectZahkman\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.pdb
