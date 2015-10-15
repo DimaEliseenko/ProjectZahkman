@@ -133,3 +133,6 @@ C:\Users\Dima\Desktop\Облако\Общая\Основной проект За
 C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.setup_settings.resources
 C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csproj.GenerateResource.Cache
 C:\Users\Dima\Desktop\Облако\Общая\Основной проект Захман (any CPU)\zmodule\zmodule\obj\Debug\zmodule.csprojResolveAssemblyReference.cache
+C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\bin\Debug\zmodule.exe.config
+C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.exe
+C:\ZachmanDima\ProjectZahkman\zmodule\zmodule\obj\Debug\zmodule.pdb
